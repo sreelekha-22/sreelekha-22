@@ -135,7 +135,7 @@ URL shortener REST API with a clean DTO-layered architecture.
 
 - **[ML Projects](https://github.com/sreelekha-22/ML_projects)** — three applied ML projects:
   - [Fake News Detection](https://github.com/sreelekha-22/ML_projects/tree/main/Fake_News_DetectionHK) — LSTM text classifier, ~94% accuracy, Flask API + React UI
-  - [Medicinal Plant Detection](https://github.com/sreelekha-22/ML_projects/tree/main/Med_Plant_Detection) — **78-class** Ayurvedic plant identifier (Tulsi, Neem, Amla, Turmeric…), VGG19 transfer learning
+  - [Medicinal Plant Detection](https://github.com/sreelekha-22/ML_projects/tree/main/Med_Plant_Detection) — **80-class** Ayurvedic plant identifier (Tulsi, Neem, Amla, Turmeric…), VGG19 transfer learning
   - [Poultry Disease Detection](https://github.com/sreelekha-22/ML_projects/tree/main/Poultry_disease_detection) — 4-class poultry condition classifier, VGG19 transfer learning
 - **[Medicinal Plant Identification](https://github.com/sreelekha-22/Medicinal-Plant-Identification)** —
   Flask app serving a VGG19 leaf-image classifier
