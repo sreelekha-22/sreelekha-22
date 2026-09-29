@@ -113,18 +113,18 @@ Two-sided appointment scheduling with automated email notifications.
 <tr><td width="50%">
 
 ### [Watch Hub](https://github.com/sreelekha-22/WatchHub)
-`React` `Express` `MongoDB` `JWT`
+`React` `Express` `MongoDB` `Bootstrap`
 
-Video platform with authentication, filtering and full admin CRUD.
+Video platform with a filterable library and full admin CRUD. Its known security limitations are documented rather than hidden.
 
 [Repo →](https://github.com/sreelekha-22/WatchHub)
 
 </td><td width="50%">
 
 ### [UrlShorty](https://github.com/sreelekha-22/UrlShorty)
-`Java` `Spring Boot` `MongoDB`
+`Java` `Spring Boot` `MySQL` `JWT`
 
-URL shortener REST API with a clean DTO-layered architecture.
+URL shortener REST API with DTO layering, JWT auth and per-link click analytics.
 
 [Repo →](https://github.com/sreelekha-22/UrlShorty)
 
